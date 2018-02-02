@@ -1,5 +1,5 @@
 # Laravel_Course
-this is the repository for the laravel Course tutored to FTC members. 2/2/2018
+this is the repository for the laravel Course tutored to FTC members by me. 2/2/2018
 
 Course Overview: <br>
 <ul>
